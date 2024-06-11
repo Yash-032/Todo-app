@@ -4,14 +4,14 @@
     "description": "This is a simple todo application backend",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Yash Agarwal",
     "license": "ISC",
     "dependencies": {
-      "cors": "^2.8.5",
-      "express": "^4.18.2",
-      "jsonwebtoken": "^9.0.2",
-      "zod": "^3.22.4"
+        "cors": "^2.8.5",
+        "express": "^4.19.2",
+        "jsonwebtoken": "^9.0.2",
+        "zod": "^3.22.4"
     }
-  }
+}
